@@ -91,7 +91,7 @@ if __name__ == '__main__':
                     eval_metric=gini_xgb
                     )
 
-            pred = clf.predict_proba(val_x)[:, 1]
+            pred = clf.predict_proba(val_x, ntree_limit=clf.best_ntree_limit)[:, 1]
             sc_logloss = log_loss(val_y, pred)
             sc_gini = - gini(val_y, pred)
 

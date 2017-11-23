@@ -1,0 +1,1190 @@
+2017-11-19 03:42:39,400 __main__ 28 [INFO][<module>] start
+2017-11-19 03:42:42,885 __main__ 37 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 03:42:42,886 __main__ 39 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 03:42:53,255 __main__ 44 [INFO][<module>] train end
+2017-11-19 03:42:57,794 __main__ 50 [INFO][<module>] test data load end (892816, 58)
+2017-11-19 06:18:09,499 __main__ 31 [INFO][<module>] start
+2017-11-19 06:18:13,721 __main__ 40 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 06:18:13,721 __main__ 42 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 06:19:53,165 __main__ 31 [INFO][<module>] start
+2017-11-19 06:19:56,131 __main__ 40 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 06:19:56,132 __main__ 42 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 06:20:51,963 __main__ 31 [INFO][<module>] start
+2017-11-19 06:20:54,773 __main__ 40 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 06:20:54,773 __main__ 42 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 06:25:57,330 __main__ 31 [INFO][<module>] start
+2017-11-19 06:26:00,491 __main__ 40 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 06:26:00,492 __main__ 42 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 06:27:58,558 __main__ 31 [INFO][<module>] start
+2017-11-19 06:28:01,607 __main__ 40 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 06:28:01,607 __main__ 42 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 06:28:10,927 __main__ 60 [INFO][<module>] logloss: 0.17318763645920815, auc: 0.4869120546226485
+2017-11-19 06:28:20,030 __main__ 60 [INFO][<module>] logloss: 0.17249403851355033, auc: 0.49283929213868666
+2017-11-19 06:28:28,971 __main__ 60 [INFO][<module>] logloss: 0.172652971789488, auc: 0.49208778016961263
+2017-11-19 06:28:38,509 __main__ 60 [INFO][<module>] logloss: 0.17333567256584798, auc: 0.4856530935510218
+2017-11-19 06:28:47,481 __main__ 60 [INFO][<module>] logloss: 0.17241761721992097, auc: 0.49412118752442485
+2017-11-19 06:28:55,999 __main__ 65 [INFO][<module>] train end
+2017-11-19 06:29:01,448 __main__ 71 [INFO][<module>] test data load end (892816, 58)
+2017-11-19 06:29:04,307 __main__ 79 [INFO][<module>] end
+2017-11-19 06:43:40,275 __main__ 31 [INFO][<module>] start
+2017-11-19 06:43:43,177 __main__ 40 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 06:43:43,177 __main__ 42 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 06:43:52,691 __main__ 65 [INFO][<module>] logloss: 0.17318763645920815, auc: 0.4869120546226485
+2017-11-19 06:44:01,770 __main__ 65 [INFO][<module>] logloss: 0.17249403851355033, auc: 0.49283929213868666
+2017-11-19 06:44:10,765 __main__ 65 [INFO][<module>] logloss: 0.172652971789488, auc: 0.49208778016961263
+2017-11-19 06:44:19,755 __main__ 65 [INFO][<module>] logloss: 0.17333567256584798, auc: 0.4856530935510218
+2017-11-19 06:44:28,793 __main__ 65 [INFO][<module>] logloss: 0.17241761721992097, auc: 0.49412118752442485
+2017-11-19 06:44:28,793 __main__ 67 [INFO][<module>] logloss: 0.4903226816012789, auc: 0.4903226816012789
+2017-11-19 06:44:37,385 __main__ 72 [INFO][<module>] train end
+2017-11-19 06:44:41,840 __main__ 78 [INFO][<module>] test data load end (892816, 58)
+2017-11-19 06:44:44,688 __main__ 86 [INFO][<module>] end
+2017-11-19 12:41:16,685 __main__ 31 [INFO][<module>] start
+2017-11-19 12:41:20,955 __main__ 40 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 12:41:20,955 __main__ 42 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 12:41:20,956 __main__ 54 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': '12', 'random_state': 0}
+2017-11-19 12:42:31,604 __main__ 31 [INFO][<module>] start
+2017-11-19 12:42:34,565 __main__ 40 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 12:42:34,566 __main__ 42 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 12:42:34,568 __main__ 54 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 12:42:44,344 __main__ 75 [INFO][<module>] logloss: 0.17318798323693935, auc: 0.48691206667808773
+2017-11-19 12:42:52,878 __main__ 75 [INFO][<module>] logloss: 0.17249437544952004, auc: 0.49283931624956506
+2017-11-19 12:43:02,090 __main__ 75 [INFO][<module>] logloss: 0.17265330783769745, auc: 0.4920877962435316
+2017-11-19 12:43:10,806 __main__ 75 [INFO][<module>] logloss: 0.17333601968872808, auc: 0.48565314579171376
+2017-11-19 12:43:19,963 __main__ 75 [INFO][<module>] logloss: 0.1724179501797625, auc: 0.49412118953414547
+2017-11-19 12:43:19,964 __main__ 79 [INFO][<module>] logloss: 0.49032270289940866, auc: -0.49032270289940866
+2017-11-19 12:43:19,964 __main__ 54 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 12:43:42,975 __main__ 75 [INFO][<module>] logloss: 0.15298882022126098, auc: 0.6234345268775374
+2017-11-19 12:44:06,051 __main__ 75 [INFO][<module>] logloss: 0.1532866553571461, auc: 0.618815696316864
+2017-11-19 12:44:28,838 __main__ 75 [INFO][<module>] logloss: 0.15295039007579786, auc: 0.6258617147573139
+2017-11-19 12:44:51,754 __main__ 75 [INFO][<module>] logloss: 0.15299991014318928, auc: 0.6266332306413269
+2017-11-19 12:45:15,259 __main__ 75 [INFO][<module>] logloss: 0.15329100983896593, auc: 0.6175649990958065
+2017-11-19 12:45:15,260 __main__ 79 [INFO][<module>] logloss: 0.6224620335377697, auc: -0.6224620335377697
+2017-11-19 12:45:15,260 __main__ 54 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 12:45:23,833 __main__ 75 [INFO][<module>] logloss: 0.17320503628367995, auc: 0.4869141040473131
+2017-11-19 12:45:32,540 __main__ 75 [INFO][<module>] logloss: 0.17251132191140212, auc: 0.49283949105343355
+2017-11-19 12:45:41,299 __main__ 75 [INFO][<module>] logloss: 0.17267048636158983, auc: 0.4920879810935993
+2017-11-19 12:45:50,082 __main__ 75 [INFO][<module>] logloss: 0.1733531579722648, auc: 0.4856552936878574
+2017-11-19 12:45:59,184 __main__ 75 [INFO][<module>] logloss: 0.17243487808758956, auc: 0.4941220155292957
+2017-11-19 12:45:59,185 __main__ 79 [INFO][<module>] logloss: 0.4903237770822998, auc: -0.4903237770822998
+2017-11-19 12:45:59,185 __main__ 54 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 12:46:08,405 __main__ 75 [INFO][<module>] logloss: 0.15348662057363202, auc: 0.6136200531750957
+2017-11-19 12:46:17,260 __main__ 75 [INFO][<module>] logloss: 0.15379510327163912, auc: 0.6092387891086083
+2017-11-19 12:46:26,082 __main__ 75 [INFO][<module>] logloss: 0.15351636108910355, auc: 0.6158710347369926
+2017-11-19 12:46:35,157 __main__ 75 [INFO][<module>] logloss: 0.15336685446864343, auc: 0.6186239429214019
+2017-11-19 12:46:43,987 __main__ 75 [INFO][<module>] logloss: 0.1538446769000559, auc: 0.6065555187495332
+2017-11-19 12:46:43,987 __main__ 79 [INFO][<module>] logloss: 0.6127818677383263, auc: -0.6127818677383263
+2017-11-19 12:46:43,987 __main__ 54 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 12:46:52,915 __main__ 75 [INFO][<module>] logloss: 0.17318763645920815, auc: 0.4869120546226485
+2017-11-19 12:47:02,263 __main__ 75 [INFO][<module>] logloss: 0.17249403851355033, auc: 0.49283929213868666
+2017-11-19 12:47:11,330 __main__ 75 [INFO][<module>] logloss: 0.172652971789488, auc: 0.49208778016961263
+2017-11-19 12:47:20,278 __main__ 75 [INFO][<module>] logloss: 0.17333567256584798, auc: 0.4856530935510218
+2017-11-19 12:47:28,957 __main__ 75 [INFO][<module>] logloss: 0.17241761721992097, auc: 0.49412118752442485
+2017-11-19 12:47:28,958 __main__ 79 [INFO][<module>] logloss: 0.4903226816012789, auc: -0.4903226816012789
+2017-11-19 12:47:28,958 __main__ 54 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 12:47:41,555 __main__ 75 [INFO][<module>] logloss: 0.1530137851946572, auc: 0.6228253996916573
+2017-11-19 12:47:53,932 __main__ 75 [INFO][<module>] logloss: 0.15331951061994195, auc: 0.6182052169125531
+2017-11-19 12:48:06,818 __main__ 75 [INFO][<module>] logloss: 0.1529760045315353, auc: 0.625498128738653
+2017-11-19 12:48:19,315 __main__ 75 [INFO][<module>] logloss: 0.15301734338129924, auc: 0.6263540362907689
+2017-11-19 12:48:32,101 __main__ 75 [INFO][<module>] logloss: 0.15333146744136467, auc: 0.6166757841659319
+2017-11-19 12:48:32,102 __main__ 79 [INFO][<module>] logloss: 0.6219117131599129, auc: -0.6219117131599129
+2017-11-19 12:48:32,102 __main__ 54 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 12:48:41,061 __main__ 75 [INFO][<module>] logloss: 0.1732045702337398, auc: 0.48691415628754964
+2017-11-19 12:48:49,837 __main__ 75 [INFO][<module>] logloss: 0.17251086920727146, auc: 0.4928394870349539
+2017-11-19 12:48:58,631 __main__ 75 [INFO][<module>] logloss: 0.17267003485929433, auc: 0.4920879167979236
+2017-11-19 12:49:07,350 __main__ 75 [INFO][<module>] logloss: 0.17335269140300433, auc: 0.4856551952342456
+2017-11-19 12:49:15,882 __main__ 75 [INFO][<module>] logloss: 0.1724344306727238, auc: 0.4941221019472798
+2017-11-19 12:49:15,882 __main__ 79 [INFO][<module>] logloss: 0.49032377146039047, auc: -0.49032377146039047
+2017-11-19 12:49:15,883 __main__ 54 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 12:49:24,807 __main__ 75 [INFO][<module>] logloss: 0.15346885016582773, auc: 0.6140051762358939
+2017-11-19 12:49:33,589 __main__ 75 [INFO][<module>] logloss: 0.15377535287157232, auc: 0.6096464417760381
+2017-11-19 12:49:42,535 __main__ 75 [INFO][<module>] logloss: 0.15348871372887898, auc: 0.6164464689795386
+2017-11-19 12:49:51,601 __main__ 75 [INFO][<module>] logloss: 0.1533518244018734, auc: 0.6190058625649826
+2017-11-19 12:50:00,415 __main__ 75 [INFO][<module>] logloss: 0.15381390136655002, auc: 0.6071465936440328
+2017-11-19 12:50:00,416 __main__ 79 [INFO][<module>] logloss: 0.6132501086400972, auc: -0.6132501086400972
+2017-11-19 12:50:00,416 __main__ 54 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 12:50:09,423 __main__ 75 [INFO][<module>] logloss: 0.17318750017837242, auc: 0.48691212293680397
+2017-11-19 12:50:18,572 __main__ 75 [INFO][<module>] logloss: 0.17249390617825114, auc: 0.4928392660185684
+2017-11-19 12:50:27,798 __main__ 75 [INFO][<module>] logloss: 0.17265283979852236, auc: 0.49208777213265315
+2017-11-19 12:50:36,718 __main__ 75 [INFO][<module>] logloss: 0.17333553609423255, auc: 0.4856531015880513
+2017-11-19 12:50:45,813 __main__ 75 [INFO][<module>] logloss: 0.17241748637160031, auc: 0.49412118953414547
+2017-11-19 12:50:45,813 __main__ 79 [INFO][<module>] logloss: 0.49032269044204446, auc: -0.49032269044204446
+2017-11-19 12:50:45,814 __main__ 54 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 12:51:03,392 __main__ 75 [INFO][<module>] logloss: 0.1529823766238107, auc: 0.6234449789433271
+2017-11-19 12:51:20,792 __main__ 75 [INFO][<module>] logloss: 0.15328970621223686, auc: 0.6187385515521603
+2017-11-19 12:51:37,497 __main__ 75 [INFO][<module>] logloss: 0.1529401031999672, auc: 0.6260603843769095
+2017-11-19 12:51:54,471 __main__ 75 [INFO][<module>] logloss: 0.15299542960573964, auc: 0.6267495344957515
+2017-11-19 12:52:11,504 __main__ 75 [INFO][<module>] logloss: 0.15329156547062042, auc: 0.6174618763144251
+2017-11-19 12:52:11,505 __main__ 79 [INFO][<module>] logloss: 0.6224910651365148, auc: -0.6224910651365148
+2017-11-19 12:52:11,505 __main__ 54 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 12:52:20,626 __main__ 75 [INFO][<module>] logloss: 0.1732045242587086, auc: 0.4869141703522287
+2017-11-19 12:52:29,461 __main__ 75 [INFO][<module>] logloss: 0.1725108246835936, auc: 0.49283945488711595
+2017-11-19 12:52:38,011 __main__ 75 [INFO][<module>] logloss: 0.1726699904971106, auc: 0.49208789670552494
+2017-11-19 12:52:46,909 __main__ 75 [INFO][<module>] logloss: 0.17335264539438366, auc: 0.48565518920647344
+2017-11-19 12:52:55,903 __main__ 75 [INFO][<module>] logloss: 0.17243438677440925, auc: 0.4941220838597947
+2017-11-19 12:52:55,903 __main__ 79 [INFO][<module>] logloss: 0.4903237590022275, auc: -0.4903237590022275
+2017-11-19 12:52:55,904 __main__ 54 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 12:53:05,134 __main__ 75 [INFO][<module>] logloss: 0.1534666155374166, auc: 0.6140464801798452
+2017-11-19 12:53:13,924 __main__ 75 [INFO][<module>] logloss: 0.15377364050307782, auc: 0.6096792004228341
+2017-11-19 12:53:22,974 __main__ 75 [INFO][<module>] logloss: 0.15348598878968236, auc: 0.6165048775824801
+2017-11-19 12:53:31,923 __main__ 75 [INFO][<module>] logloss: 0.1533514400142545, auc: 0.6190288585157443
+2017-11-19 12:53:40,801 __main__ 75 [INFO][<module>] logloss: 0.15380997558694834, auc: 0.6072163349669106
+2017-11-19 12:53:40,801 __main__ 79 [INFO][<module>] logloss: 0.613295150333563, auc: -0.613295150333563
+2017-11-19 12:53:40,801 __main__ 84 [INFO][<module>] minimum params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 12:53:40,801 __main__ 85 [INFO][<module>] minimum auc: -0.6224910651365148
+2017-11-19 12:53:57,966 __main__ 90 [INFO][<module>] train end
+2017-11-19 12:54:02,444 __main__ 96 [INFO][<module>] test data load end (892816, 58)
+2017-11-19 12:54:05,367 __main__ 104 [INFO][<module>] end
+2017-11-19 13:01:37,878 __main__ 31 [INFO][<module>] start
+2017-11-19 13:01:40,999 __main__ 40 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 13:01:40,999 __main__ 42 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 13:01:40,999 __main__ 54 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:01:50,468 __main__ 75 [DEBUG][<module>] logloss: 0.17318798323693935, auc: 0.48691206667808773
+2017-11-19 13:01:50,468 __main__ 80 [INFO][<module>] logloss: 0.17318798323693935, auc: -0.48691206667808773
+2017-11-19 13:01:50,468 __main__ 54 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:02:12,890 __main__ 75 [DEBUG][<module>] logloss: 0.15298882022126098, auc: 0.6234345268775374
+2017-11-19 13:02:12,890 __main__ 80 [INFO][<module>] logloss: 0.15298882022126098, auc: -0.6234345268775374
+2017-11-19 13:02:12,891 __main__ 54 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:02:21,920 __main__ 75 [DEBUG][<module>] logloss: 0.17320503628367995, auc: 0.4869141040473131
+2017-11-19 13:02:21,920 __main__ 80 [INFO][<module>] logloss: 0.17320503628367995, auc: -0.4869141040473131
+2017-11-19 13:02:21,920 __main__ 54 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:02:31,039 __main__ 75 [DEBUG][<module>] logloss: 0.15348662057363202, auc: 0.6136200531750957
+2017-11-19 13:02:31,040 __main__ 80 [INFO][<module>] logloss: 0.15348662057363202, auc: -0.6136200531750957
+2017-11-19 13:02:31,040 __main__ 54 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:02:40,235 __main__ 75 [DEBUG][<module>] logloss: 0.17318763645920815, auc: 0.4869120546226485
+2017-11-19 13:02:40,236 __main__ 80 [INFO][<module>] logloss: 0.17318763645920815, auc: -0.4869120546226485
+2017-11-19 13:02:40,236 __main__ 54 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:02:52,685 __main__ 75 [DEBUG][<module>] logloss: 0.1530137851946572, auc: 0.6228253996916573
+2017-11-19 13:02:52,685 __main__ 80 [INFO][<module>] logloss: 0.1530137851946572, auc: -0.6228253996916573
+2017-11-19 13:02:52,685 __main__ 54 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:03:01,692 __main__ 75 [DEBUG][<module>] logloss: 0.1732045702337398, auc: 0.48691415628754964
+2017-11-19 13:03:01,692 __main__ 80 [INFO][<module>] logloss: 0.1732045702337398, auc: -0.48691415628754964
+2017-11-19 13:03:01,692 __main__ 54 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:03:10,617 __main__ 75 [DEBUG][<module>] logloss: 0.15346885016582773, auc: 0.6140051762358939
+2017-11-19 13:03:10,617 __main__ 80 [INFO][<module>] logloss: 0.15346885016582773, auc: -0.6140051762358939
+2017-11-19 13:03:10,617 __main__ 54 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:03:19,678 __main__ 75 [DEBUG][<module>] logloss: 0.17318750017837242, auc: 0.48691212293680397
+2017-11-19 13:03:19,678 __main__ 80 [INFO][<module>] logloss: 0.17318750017837242, auc: -0.48691212293680397
+2017-11-19 13:03:19,678 __main__ 54 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:03:36,881 __main__ 75 [DEBUG][<module>] logloss: 0.1529823766238107, auc: 0.6234449789433271
+2017-11-19 13:03:36,881 __main__ 80 [INFO][<module>] logloss: 0.1529823766238107, auc: -0.6234449789433271
+2017-11-19 13:03:36,881 __main__ 54 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:03:45,747 __main__ 75 [DEBUG][<module>] logloss: 0.1732045242587086, auc: 0.4869141703522287
+2017-11-19 13:03:45,748 __main__ 80 [INFO][<module>] logloss: 0.1732045242587086, auc: -0.4869141703522287
+2017-11-19 13:03:45,748 __main__ 54 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:03:54,885 __main__ 75 [DEBUG][<module>] logloss: 0.1534666155374166, auc: 0.6140464801798452
+2017-11-19 13:03:54,885 __main__ 80 [INFO][<module>] logloss: 0.1534666155374166, auc: -0.6140464801798452
+2017-11-19 13:03:54,885 __main__ 85 [INFO][<module>] minimum params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:03:54,885 __main__ 86 [INFO][<module>] minimum auc: -0.6234449789433271
+2017-11-19 13:04:12,101 __main__ 91 [INFO][<module>] train end
+2017-11-19 13:04:16,380 __main__ 97 [INFO][<module>] test data load end (892816, 58)
+2017-11-19 13:04:19,220 __main__ 105 [INFO][<module>] end
+2017-11-19 13:08:10,830 __main__ 32 [INFO][<module>] start
+2017-11-19 13:08:13,687 __main__ 41 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 13:08:13,687 __main__ 43 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 13:08:13,689 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:08:23,026 __main__ 76 [DEBUG][<module>] logloss: 0.17318798323693935, auc: 0.48691206667808773
+2017-11-19 13:08:23,026 __main__ 81 [INFO][<module>] logloss: 0.17318798323693935, auc: -0.48691206667808773
+2017-11-19 13:08:23,027 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:08:47,074 __main__ 76 [DEBUG][<module>] logloss: 0.15298882022126098, auc: 0.6234345268775374
+2017-11-19 13:08:47,078 __main__ 81 [INFO][<module>] logloss: 0.15298882022126098, auc: -0.6234345268775374
+2017-11-19 13:08:47,079 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:08:56,099 __main__ 76 [DEBUG][<module>] logloss: 0.17320503628367995, auc: 0.4869141040473131
+2017-11-19 13:08:56,099 __main__ 81 [INFO][<module>] logloss: 0.17320503628367995, auc: -0.4869141040473131
+2017-11-19 13:08:56,099 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:09:05,540 __main__ 76 [DEBUG][<module>] logloss: 0.15348662057363202, auc: 0.6136200531750957
+2017-11-19 13:09:05,540 __main__ 81 [INFO][<module>] logloss: 0.15348662057363202, auc: -0.6136200531750957
+2017-11-19 13:09:05,540 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:09:14,323 __main__ 76 [DEBUG][<module>] logloss: 0.17318763645920815, auc: 0.4869120546226485
+2017-11-19 13:09:14,323 __main__ 81 [INFO][<module>] logloss: 0.17318763645920815, auc: -0.4869120546226485
+2017-11-19 13:09:14,324 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:09:27,056 __main__ 76 [DEBUG][<module>] logloss: 0.1530137851946572, auc: 0.6228253996916573
+2017-11-19 13:09:27,056 __main__ 81 [INFO][<module>] logloss: 0.1530137851946572, auc: -0.6228253996916573
+2017-11-19 13:09:27,056 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:09:35,853 __main__ 76 [DEBUG][<module>] logloss: 0.1732045702337398, auc: 0.48691415628754964
+2017-11-19 13:09:35,853 __main__ 81 [INFO][<module>] logloss: 0.1732045702337398, auc: -0.48691415628754964
+2017-11-19 13:09:35,854 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:09:44,843 __main__ 76 [DEBUG][<module>] logloss: 0.15346885016582773, auc: 0.6140051762358939
+2017-11-19 13:09:44,843 __main__ 81 [INFO][<module>] logloss: 0.15346885016582773, auc: -0.6140051762358939
+2017-11-19 13:09:44,844 __main__ 55 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:09:53,903 __main__ 76 [DEBUG][<module>] logloss: 0.17318750017837242, auc: 0.48691212293680397
+2017-11-19 13:09:53,903 __main__ 81 [INFO][<module>] logloss: 0.17318750017837242, auc: -0.48691212293680397
+2017-11-19 13:09:53,903 __main__ 55 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:10:11,579 __main__ 76 [DEBUG][<module>] logloss: 0.1529823766238107, auc: 0.6234449789433271
+2017-11-19 13:10:11,579 __main__ 81 [INFO][<module>] logloss: 0.1529823766238107, auc: -0.6234449789433271
+2017-11-19 13:10:11,580 __main__ 55 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:10:20,669 __main__ 76 [DEBUG][<module>] logloss: 0.1732045242587086, auc: 0.4869141703522287
+2017-11-19 13:10:20,669 __main__ 81 [INFO][<module>] logloss: 0.1732045242587086, auc: -0.4869141703522287
+2017-11-19 13:10:20,669 __main__ 55 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:10:29,989 __main__ 76 [DEBUG][<module>] logloss: 0.1534666155374166, auc: 0.6140464801798452
+2017-11-19 13:10:29,989 __main__ 81 [INFO][<module>] logloss: 0.1534666155374166, auc: -0.6140464801798452
+2017-11-19 13:10:29,989 __main__ 86 [INFO][<module>] minimum params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:10:29,989 __main__ 87 [INFO][<module>] minimum auc: -0.6234449789433271
+2017-11-19 13:10:47,666 __main__ 92 [INFO][<module>] train end
+2017-11-19 13:10:51,995 __main__ 98 [INFO][<module>] test data load end (892816, 58)
+2017-11-19 13:10:54,821 __main__ 106 [INFO][<module>] end
+2017-11-19 13:18:53,014 __main__ 32 [INFO][<module>] start
+2017-11-19 13:18:56,114 __main__ 41 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 13:18:56,114 __main__ 43 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 13:18:56,115 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:19:05,631 __main__ 76 [DEBUG][<module>] logloss: 0.17318798323693935, auc: 0.48691206667808773
+2017-11-19 13:19:05,631 __main__ 81 [INFO][<module>] logloss: 0.17318798323693935, auc: -0.48691206667808773
+2017-11-19 13:19:05,631 __main__ 85 [INFO][<module>] logloss: 0.17318798323693935, auc: -0.48691206667808773
+2017-11-19 13:19:05,632 __main__ 86 [INFO][<module>] current min score: -0.48691206667808773, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:19:05,632 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:19:28,759 __main__ 76 [DEBUG][<module>] logloss: 0.15298882022126098, auc: 0.6234345268775374
+2017-11-19 13:19:28,759 __main__ 81 [INFO][<module>] logloss: 0.15298882022126098, auc: -0.6234345268775374
+2017-11-19 13:19:28,759 __main__ 85 [INFO][<module>] logloss: 0.15298882022126098, auc: -0.6234345268775374
+2017-11-19 13:19:28,759 __main__ 86 [INFO][<module>] current min score: -0.6234345268775374, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:19:28,759 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:19:37,704 __main__ 76 [DEBUG][<module>] logloss: 0.17320503628367995, auc: 0.4869141040473131
+2017-11-19 13:19:37,704 __main__ 81 [INFO][<module>] logloss: 0.17320503628367995, auc: -0.4869141040473131
+2017-11-19 13:19:37,705 __main__ 85 [INFO][<module>] logloss: 0.17320503628367995, auc: -0.4869141040473131
+2017-11-19 13:19:37,705 __main__ 86 [INFO][<module>] current min score: -0.6234345268775374, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:19:37,705 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:19:46,817 __main__ 76 [DEBUG][<module>] logloss: 0.15348662057363202, auc: 0.6136200531750957
+2017-11-19 13:19:46,817 __main__ 81 [INFO][<module>] logloss: 0.15348662057363202, auc: -0.6136200531750957
+2017-11-19 13:19:46,817 __main__ 85 [INFO][<module>] logloss: 0.15348662057363202, auc: -0.6136200531750957
+2017-11-19 13:19:46,817 __main__ 86 [INFO][<module>] current min score: -0.6234345268775374, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:19:46,817 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:19:55,773 __main__ 76 [DEBUG][<module>] logloss: 0.17318763645920815, auc: 0.4869120546226485
+2017-11-19 13:19:55,774 __main__ 81 [INFO][<module>] logloss: 0.17318763645920815, auc: -0.4869120546226485
+2017-11-19 13:19:55,774 __main__ 85 [INFO][<module>] logloss: 0.17318763645920815, auc: -0.4869120546226485
+2017-11-19 13:19:55,774 __main__ 86 [INFO][<module>] current min score: -0.6234345268775374, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:19:55,774 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:20:08,652 __main__ 76 [DEBUG][<module>] logloss: 0.1530137851946572, auc: 0.6228253996916573
+2017-11-19 13:20:08,653 __main__ 81 [INFO][<module>] logloss: 0.1530137851946572, auc: -0.6228253996916573
+2017-11-19 13:20:08,653 __main__ 85 [INFO][<module>] logloss: 0.1530137851946572, auc: -0.6228253996916573
+2017-11-19 13:20:08,653 __main__ 86 [INFO][<module>] current min score: -0.6234345268775374, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:20:08,653 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:20:17,552 __main__ 76 [DEBUG][<module>] logloss: 0.1732045702337398, auc: 0.48691415628754964
+2017-11-19 13:20:17,552 __main__ 81 [INFO][<module>] logloss: 0.1732045702337398, auc: -0.48691415628754964
+2017-11-19 13:20:17,553 __main__ 85 [INFO][<module>] logloss: 0.1732045702337398, auc: -0.48691415628754964
+2017-11-19 13:20:17,553 __main__ 86 [INFO][<module>] current min score: -0.6234345268775374, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:20:17,553 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:20:26,859 __main__ 76 [DEBUG][<module>] logloss: 0.15346885016582773, auc: 0.6140051762358939
+2017-11-19 13:20:26,859 __main__ 81 [INFO][<module>] logloss: 0.15346885016582773, auc: -0.6140051762358939
+2017-11-19 13:20:26,861 __main__ 85 [INFO][<module>] logloss: 0.15346885016582773, auc: -0.6140051762358939
+2017-11-19 13:20:26,861 __main__ 86 [INFO][<module>] current min score: -0.6234345268775374, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:20:26,861 __main__ 55 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:21:08,067 __main__ 32 [INFO][<module>] start
+2017-11-19 13:21:10,975 __main__ 41 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 13:21:10,975 __main__ 43 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 13:21:10,977 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:21:20,720 __main__ 76 [DEBUG][<module>] logloss: 0.17318798323693935, auc: 0.48691206667808773
+2017-11-19 13:21:20,720 __main__ 81 [INFO][<module>] logloss: 0.17318798323693935, auc: 0.48691206667808773
+2017-11-19 13:21:20,720 __main__ 85 [INFO][<module>] logloss: 0.17318798323693935, auc: 0.48691206667808773
+2017-11-19 13:21:20,720 __main__ 86 [INFO][<module>] current min score: 0.48691206667808773, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:21:20,721 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:21:44,248 __main__ 76 [DEBUG][<module>] logloss: 0.15298882022126098, auc: 0.6234345268775374
+2017-11-19 13:21:44,249 __main__ 81 [INFO][<module>] logloss: 0.15298882022126098, auc: 0.6234345268775374
+2017-11-19 13:21:44,249 __main__ 85 [INFO][<module>] logloss: 0.15298882022126098, auc: 0.6234345268775374
+2017-11-19 13:21:44,249 __main__ 86 [INFO][<module>] current min score: 0.48691206667808773, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:21:44,249 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:21:53,467 __main__ 76 [DEBUG][<module>] logloss: 0.17320503628367995, auc: 0.4869141040473131
+2017-11-19 13:21:53,468 __main__ 81 [INFO][<module>] logloss: 0.17320503628367995, auc: 0.4869141040473131
+2017-11-19 13:21:53,468 __main__ 85 [INFO][<module>] logloss: 0.17320503628367995, auc: 0.4869141040473131
+2017-11-19 13:21:53,468 __main__ 86 [INFO][<module>] current min score: 0.48691206667808773, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:21:53,468 __main__ 55 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:22:02,557 __main__ 76 [DEBUG][<module>] logloss: 0.15348662057363202, auc: 0.6136200531750957
+2017-11-19 13:22:02,557 __main__ 81 [INFO][<module>] logloss: 0.15348662057363202, auc: 0.6136200531750957
+2017-11-19 13:22:02,557 __main__ 85 [INFO][<module>] logloss: 0.15348662057363202, auc: 0.6136200531750957
+2017-11-19 13:22:02,558 __main__ 86 [INFO][<module>] current min score: 0.48691206667808773, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:22:02,558 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:22:11,847 __main__ 76 [DEBUG][<module>] logloss: 0.17318763645920815, auc: 0.4869120546226485
+2017-11-19 13:22:11,847 __main__ 81 [INFO][<module>] logloss: 0.17318763645920815, auc: 0.4869120546226485
+2017-11-19 13:22:11,847 __main__ 85 [INFO][<module>] logloss: 0.17318763645920815, auc: 0.4869120546226485
+2017-11-19 13:22:11,847 __main__ 86 [INFO][<module>] current min score: 0.4869120546226485, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:22:11,847 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:22:24,547 __main__ 76 [DEBUG][<module>] logloss: 0.1530137851946572, auc: 0.6228253996916573
+2017-11-19 13:22:24,547 __main__ 81 [INFO][<module>] logloss: 0.1530137851946572, auc: 0.6228253996916573
+2017-11-19 13:22:24,547 __main__ 85 [INFO][<module>] logloss: 0.1530137851946572, auc: 0.6228253996916573
+2017-11-19 13:22:24,547 __main__ 86 [INFO][<module>] current min score: 0.4869120546226485, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:22:24,547 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:22:33,389 __main__ 76 [DEBUG][<module>] logloss: 0.1732045702337398, auc: 0.48691415628754964
+2017-11-19 13:22:33,389 __main__ 81 [INFO][<module>] logloss: 0.1732045702337398, auc: 0.48691415628754964
+2017-11-19 13:22:33,389 __main__ 85 [INFO][<module>] logloss: 0.1732045702337398, auc: 0.48691415628754964
+2017-11-19 13:22:33,389 __main__ 86 [INFO][<module>] current min score: 0.4869120546226485, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:22:33,389 __main__ 55 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:22:42,427 __main__ 76 [DEBUG][<module>] logloss: 0.15346885016582773, auc: 0.6140051762358939
+2017-11-19 13:22:42,427 __main__ 81 [INFO][<module>] logloss: 0.15346885016582773, auc: 0.6140051762358939
+2017-11-19 13:22:42,427 __main__ 85 [INFO][<module>] logloss: 0.15346885016582773, auc: 0.6140051762358939
+2017-11-19 13:22:42,427 __main__ 86 [INFO][<module>] current min score: 0.4869120546226485, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:22:42,428 __main__ 55 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:22:51,439 __main__ 76 [DEBUG][<module>] logloss: 0.17318750017837242, auc: 0.48691212293680397
+2017-11-19 13:22:51,439 __main__ 81 [INFO][<module>] logloss: 0.17318750017837242, auc: 0.48691212293680397
+2017-11-19 13:22:51,439 __main__ 85 [INFO][<module>] logloss: 0.17318750017837242, auc: 0.48691212293680397
+2017-11-19 13:22:51,439 __main__ 86 [INFO][<module>] current min score: 0.4869120546226485, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:22:51,439 __main__ 55 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:23:08,935 __main__ 76 [DEBUG][<module>] logloss: 0.1529823766238107, auc: 0.6234449789433271
+2017-11-19 13:23:08,936 __main__ 81 [INFO][<module>] logloss: 0.1529823766238107, auc: 0.6234449789433271
+2017-11-19 13:23:08,936 __main__ 85 [INFO][<module>] logloss: 0.1529823766238107, auc: 0.6234449789433271
+2017-11-19 13:23:08,936 __main__ 86 [INFO][<module>] current min score: 0.4869120546226485, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:23:08,936 __main__ 55 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:23:18,119 __main__ 76 [DEBUG][<module>] logloss: 0.1732045242587086, auc: 0.4869141703522287
+2017-11-19 13:23:18,119 __main__ 81 [INFO][<module>] logloss: 0.1732045242587086, auc: 0.4869141703522287
+2017-11-19 13:23:18,119 __main__ 85 [INFO][<module>] logloss: 0.1732045242587086, auc: 0.4869141703522287
+2017-11-19 13:23:18,119 __main__ 86 [INFO][<module>] current min score: 0.4869120546226485, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:23:18,119 __main__ 55 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:23:26,947 __main__ 76 [DEBUG][<module>] logloss: 0.1534666155374166, auc: 0.6140464801798452
+2017-11-19 13:23:26,948 __main__ 81 [INFO][<module>] logloss: 0.1534666155374166, auc: 0.6140464801798452
+2017-11-19 13:23:26,948 __main__ 85 [INFO][<module>] logloss: 0.1534666155374166, auc: 0.6140464801798452
+2017-11-19 13:23:26,948 __main__ 86 [INFO][<module>] current min score: 0.4869120546226485, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:23:26,948 __main__ 88 [INFO][<module>] minimum params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:23:26,948 __main__ 89 [INFO][<module>] minimum auc: 0.4869120546226485
+2017-11-19 13:23:35,586 __main__ 94 [INFO][<module>] train end
+2017-11-19 13:23:40,080 __main__ 100 [INFO][<module>] test data load end (892816, 58)
+2017-11-19 13:23:42,913 __main__ 108 [INFO][<module>] end
+2017-11-19 13:53:46,884 __main__ 38 [INFO][<module>] start
+2017-11-19 13:53:50,211 __main__ 47 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 13:53:50,211 __main__ 49 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 13:53:50,213 __main__ 61 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:54:50,193 __main__ 38 [INFO][<module>] start
+2017-11-19 13:54:53,094 __main__ 47 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-19 13:54:53,094 __main__ 49 [INFO][<module>] data preparation end (595212, 58)
+2017-11-19 13:54:53,096 __main__ 61 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:55:02,582 __main__ 82 [DEBUG][<module>] logloss: 0.17318798323693935, gini: 0.02617586664382454
+2017-11-19 13:55:02,582 __main__ 90 [INFO][<module>] logloss: 0.17318798323693935, gini: 0.02617586664382454
+2017-11-19 13:55:02,583 __main__ 91 [INFO][<module>] current min score: 0.02617586664382454, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:55:02,583 __main__ 61 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:55:26,006 __main__ 82 [DEBUG][<module>] logloss: 0.15298882022126098, gini: -0.24686905375507484
+2017-11-19 13:55:26,006 __main__ 90 [INFO][<module>] logloss: 0.15298882022126098, gini: -0.24686905375507484
+2017-11-19 13:55:26,007 __main__ 91 [INFO][<module>] current min score: -0.24686905375507484, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:55:26,007 __main__ 61 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:55:35,085 __main__ 82 [DEBUG][<module>] logloss: 0.17320503628367995, gini: 0.026171791905373776
+2017-11-19 13:55:35,085 __main__ 90 [INFO][<module>] logloss: 0.17320503628367995, gini: 0.026171791905373776
+2017-11-19 13:55:35,085 __main__ 91 [INFO][<module>] current min score: -0.24686905375507484, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:55:35,085 __main__ 61 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:55:44,293 __main__ 82 [DEBUG][<module>] logloss: 0.15348662057363202, gini: -0.22724010635019143
+2017-11-19 13:55:44,293 __main__ 90 [INFO][<module>] logloss: 0.15348662057363202, gini: -0.22724010635019143
+2017-11-19 13:55:44,293 __main__ 91 [INFO][<module>] current min score: -0.24686905375507484, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:55:44,293 __main__ 61 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:55:53,520 __main__ 82 [DEBUG][<module>] logloss: 0.17318763645920815, gini: 0.026175890754702946
+2017-11-19 13:55:53,520 __main__ 90 [INFO][<module>] logloss: 0.17318763645920815, gini: 0.026175890754702946
+2017-11-19 13:55:53,521 __main__ 91 [INFO][<module>] current min score: -0.24686905375507484, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:55:53,521 __main__ 61 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:56:06,141 __main__ 82 [DEBUG][<module>] logloss: 0.1530137851946572, gini: -0.24565079938331458
+2017-11-19 13:56:06,142 __main__ 90 [INFO][<module>] logloss: 0.1530137851946572, gini: -0.24565079938331458
+2017-11-19 13:56:06,142 __main__ 91 [INFO][<module>] current min score: -0.24686905375507484, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:56:06,142 __main__ 61 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:56:14,955 __main__ 82 [DEBUG][<module>] logloss: 0.1732045702337398, gini: 0.026171687424900725
+2017-11-19 13:56:14,955 __main__ 90 [INFO][<module>] logloss: 0.1732045702337398, gini: 0.026171687424900725
+2017-11-19 13:56:14,955 __main__ 91 [INFO][<module>] current min score: -0.24686905375507484, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:56:14,956 __main__ 61 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:56:23,992 __main__ 82 [DEBUG][<module>] logloss: 0.15346885016582773, gini: -0.2280103524717878
+2017-11-19 13:56:23,993 __main__ 90 [INFO][<module>] logloss: 0.15346885016582773, gini: -0.2280103524717878
+2017-11-19 13:56:23,993 __main__ 91 [INFO][<module>] current min score: -0.24686905375507484, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:56:23,993 __main__ 61 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:56:33,128 __main__ 82 [DEBUG][<module>] logloss: 0.17318750017837242, gini: 0.02617575412639206
+2017-11-19 13:56:33,128 __main__ 90 [INFO][<module>] logloss: 0.17318750017837242, gini: 0.02617575412639206
+2017-11-19 13:56:33,128 __main__ 91 [INFO][<module>] current min score: -0.24686905375507484, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:56:33,128 __main__ 61 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:56:50,875 __main__ 82 [DEBUG][<module>] logloss: 0.1529823766238107, gini: -0.24688995788665413
+2017-11-19 13:56:50,876 __main__ 90 [INFO][<module>] logloss: 0.1529823766238107, gini: -0.24688995788665413
+2017-11-19 13:56:50,876 __main__ 91 [INFO][<module>] current min score: -0.24688995788665413, params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:56:50,876 __main__ 61 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0}
+2017-11-19 13:56:59,801 __main__ 82 [DEBUG][<module>] logloss: 0.1732045242587086, gini: 0.02617165929554255
+2017-11-19 13:56:59,801 __main__ 90 [INFO][<module>] logloss: 0.1732045242587086, gini: 0.02617165929554255
+2017-11-19 13:56:59,801 __main__ 91 [INFO][<module>] current min score: -0.24688995788665413, params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:56:59,802 __main__ 61 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:57:08,761 __main__ 82 [DEBUG][<module>] logloss: 0.1534666155374166, gini: -0.2280929603596904
+2017-11-19 13:57:08,762 __main__ 90 [INFO][<module>] logloss: 0.1534666155374166, gini: -0.2280929603596904
+2017-11-19 13:57:08,762 __main__ 91 [INFO][<module>] current min score: -0.24688995788665413, params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:57:08,762 __main__ 93 [INFO][<module>] minimum params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0}
+2017-11-19 13:57:08,762 __main__ 94 [INFO][<module>] minimum gini: -0.24688995788665413
+2017-11-19 13:57:26,082 __main__ 99 [INFO][<module>] train end
+2017-11-19 13:57:30,380 __main__ 105 [INFO][<module>] test data load end (892816, 58)
+2017-11-19 13:57:33,258 __main__ 113 [INFO][<module>] end
+2017-11-20 13:57:28,846 __main__ 38 [INFO][<module>] start
+2017-11-20 13:57:33,402 __main__ 47 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-20 13:57:33,402 __main__ 49 [INFO][<module>] data preparation end (595212, 58)
+2017-11-20 13:57:33,404 __main__ 58 [INFO][<module>] params: {'seed': 0}
+2017-11-20 13:58:34,100 __main__ 38 [INFO][<module>] start
+2017-11-20 13:58:38,543 __main__ 47 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-20 13:58:38,543 __main__ 49 [INFO][<module>] data preparation end (595212, 58)
+2017-11-20 13:58:38,545 __main__ 58 [INFO][<module>] params: {'seed': 0}
+2017-11-20 13:59:02,053 __main__ 79 [DEBUG][<module>] logloss: 0.15143731223032064, gini: -0.29382858398322065
+2017-11-20 13:59:02,053 __main__ 87 [INFO][<module>] logloss: 0.15143731223032064, gini: -0.29382858398322065
+2017-11-20 13:59:02,053 __main__ 88 [INFO][<module>] current min score: -0.29382858398322065, params: {'seed': 0}
+2017-11-20 13:59:02,053 __main__ 90 [INFO][<module>] minimum params: {'seed': 0}
+2017-11-20 13:59:02,054 __main__ 91 [INFO][<module>] minimum gini: -0.29382858398322065
+2017-11-20 14:09:22,863 __main__ 38 [INFO][<module>] start
+2017-11-20 14:09:25,859 __main__ 47 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-20 14:09:25,859 __main__ 49 [INFO][<module>] data preparation end (595212, 58)
+2017-11-20 14:09:25,861 __main__ 58 [INFO][<module>] params: {'seed': 0}
+2017-11-20 14:09:46,564 __main__ 79 [DEBUG][<module>] logloss: 0.15143731223032064, gini: -0.29382858398322065
+2017-11-20 14:09:46,564 __main__ 87 [INFO][<module>] logloss: 0.15143731223032064, gini: -0.29382858398322065
+2017-11-20 14:09:46,564 __main__ 88 [INFO][<module>] current min score: -0.29382858398322065, params: {'seed': 0}
+2017-11-20 14:09:46,565 __main__ 90 [INFO][<module>] minimum params: {'seed': 0}
+2017-11-20 14:09:46,565 __main__ 91 [INFO][<module>] minimum gini: -0.29382858398322065
+2017-11-20 14:10:07,001 __main__ 96 [INFO][<module>] train end
+2017-11-20 14:10:11,969 __main__ 102 [INFO][<module>] test data load end (892816, 58)
+2017-11-20 14:10:16,509 __main__ 110 [INFO][<module>] end
+2017-11-23 09:35:26,923 __main__ 38 [INFO][<module>] start
+2017-11-23 09:35:30,357 __main__ 47 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-23 09:35:30,357 __main__ 49 [INFO][<module>] data preparation end (595212, 58)
+2017-11-23 09:35:30,424 __main__ 58 [INFO][<module>] params: {'seed': 0}
+2017-11-23 09:35:33,592 __main__ 83 [DEBUG][<module>] logloss: 0.24474140721860996, gini: -0.21487520804071436
+2017-11-23 09:35:33,592 __main__ 91 [INFO][<module>] logloss: 0.24474140721860996, gini: -0.21487520804071436
+2017-11-23 09:35:33,592 __main__ 92 [INFO][<module>] current min score: -0.21487520804071436, params: {'seed': 0}
+2017-11-23 09:35:33,593 __main__ 94 [INFO][<module>] minimum params: {'seed': 0}
+2017-11-23 09:35:33,593 __main__ 95 [INFO][<module>] minimum gini: -0.21487520804071436
+2017-11-23 09:35:53,680 __main__ 100 [INFO][<module>] train end
+2017-11-23 09:35:57,997 __main__ 106 [INFO][<module>] test data load end (892816, 58)
+2017-11-23 09:36:02,341 __main__ 114 [INFO][<module>] end
+2017-11-23 09:50:28,044 __main__ 44 [INFO][<module>] start
+2017-11-23 09:50:31,114 __main__ 53 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-23 09:50:31,114 __main__ 55 [INFO][<module>] data preparation end (595212, 58)
+2017-11-23 09:50:31,116 __main__ 64 [INFO][<module>] params: {'seed': 0}
+2017-11-23 09:51:09,788 __main__ 44 [INFO][<module>] start
+2017-11-23 09:51:12,999 __main__ 53 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-23 09:51:12,999 __main__ 55 [INFO][<module>] data preparation end (595212, 58)
+2017-11-23 09:51:13,000 __main__ 64 [INFO][<module>] params: {'seed': 0}
+2017-11-23 09:52:40,338 __main__ 44 [INFO][<module>] start
+2017-11-23 09:52:43,585 __main__ 53 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-23 09:52:43,585 __main__ 55 [INFO][<module>] data preparation end (595212, 58)
+2017-11-23 09:52:43,588 __main__ 64 [INFO][<module>] params: {'seed': 0}
+2017-11-23 09:53:02,607 __main__ 90 [DEBUG][<module>] logloss: 0.15201935077511575, gini: -0.27604154293097816
+2017-11-23 09:53:02,607 __main__ 98 [INFO][<module>] logloss: 0.15201935077511575, gini: -0.27604154293097816
+2017-11-23 09:53:02,607 __main__ 99 [INFO][<module>] current min score: -0.27604154293097816, params: {'seed': 0}
+2017-11-23 09:53:02,608 __main__ 101 [INFO][<module>] minimum params: {'seed': 0}
+2017-11-23 09:53:02,608 __main__ 102 [INFO][<module>] minimum gini: -0.27604154293097816
+2017-11-23 09:53:22,789 __main__ 107 [INFO][<module>] train end
+2017-11-23 09:53:26,895 __main__ 113 [INFO][<module>] test data load end (892816, 58)
+2017-11-23 09:53:30,961 __main__ 121 [INFO][<module>] end
+2017-11-23 10:04:42,050 __main__ 44 [INFO][<module>] start
+2017-11-23 10:04:45,305 __main__ 53 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-23 10:04:45,305 __main__ 55 [INFO][<module>] data preparation end (595212, 58)
+2017-11-23 10:04:45,307 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:04:47,682 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:04:47,683 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:04:47,683 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:04:47,683 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:04:49,961 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:04:49,961 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:04:49,961 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:04:49,962 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:04:52,189 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:04:52,189 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:04:52,189 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:04:52,189 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:04:54,440 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:04:54,440 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:04:54,440 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:04:54,440 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:04:56,750 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:04:56,750 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:04:56,750 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:04:56,750 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:04:58,962 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:04:58,963 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:04:58,963 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:04:58,963 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:01,189 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:01,189 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:01,189 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:01,189 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:03,433 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:03,433 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:03,434 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:03,434 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:05,639 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:05,640 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:05,640 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:05,640 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:07,853 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:07,853 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:07,853 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:07,853 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:10,031 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:10,031 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:10,031 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:10,031 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:12,202 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:12,202 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:12,202 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:12,202 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:14,428 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:14,428 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:14,428 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:14,428 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:16,657 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:16,658 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:16,658 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:16,658 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:18,907 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:18,907 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:18,907 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:18,907 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:21,146 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:21,146 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:21,146 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:21,146 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:23,335 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:23,335 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:23,335 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:23,336 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:25,512 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:25,512 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:25,512 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:25,512 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:27,698 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:27,699 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:27,699 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:27,699 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:29,917 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:29,918 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:29,918 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:29,918 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:32,149 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:32,150 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:32,150 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:32,150 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:34,468 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:34,468 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:34,468 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:34,469 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:36,725 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:36,726 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:36,726 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:36,726 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:38,927 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:38,927 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:38,927 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:38,928 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:41,149 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:41,149 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:41,149 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:41,150 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:43,345 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:43,345 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:43,345 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:43,345 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:45,547 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:45,547 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:45,547 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:45,548 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:47,731 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:47,732 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:47,732 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:47,733 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:49,929 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:49,929 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:49,929 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:49,929 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:52,110 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:52,111 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:52,111 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:52,111 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:54,306 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:54,307 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:54,307 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:54,307 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:05:56,516 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:56,516 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:56,516 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:56,516 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:58,710 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:05:58,710 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:05:58,710 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:05:58,710 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:00,919 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:00,919 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:00,919 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:00,919 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:03,102 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:03,102 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:03,102 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:03,102 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:05,263 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:05,263 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:05,263 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:05,263 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:07,457 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:07,457 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:07,457 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:07,457 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:09,680 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:09,680 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:09,680 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:09,681 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:11,847 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:11,847 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:11,847 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:11,848 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:14,123 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:14,123 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:14,123 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:14,123 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:16,357 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:16,357 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:16,357 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:16,357 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:18,583 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:18,584 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:18,584 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:18,584 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:20,778 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:20,778 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:20,778 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:20,778 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:22,989 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:22,989 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:22,989 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:22,990 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:25,215 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:25,215 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:25,216 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:25,216 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:27,403 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:27,403 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:27,403 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:27,404 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:29,611 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:29,612 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:29,612 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:29,612 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:31,778 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:31,778 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:31,778 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:31,778 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:34,045 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:34,045 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:34,045 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:34,045 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:36,325 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:36,326 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:36,326 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:36,326 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:38,600 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:38,600 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:38,600 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:38,600 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:40,858 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:40,858 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:40,858 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:40,858 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:43,178 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:43,178 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:43,178 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:43,178 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:45,495 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:45,495 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:45,496 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:45,496 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:47,684 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:47,685 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:47,685 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:47,685 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:49,912 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:49,913 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:49,913 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:49,913 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:52,124 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:52,125 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:52,125 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:52,125 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:54,336 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:54,337 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:54,337 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:54,337 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:56,585 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:56,585 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:56,585 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:56,585 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:06:58,882 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:06:58,882 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:06:58,882 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:06:58,882 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:01,085 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:01,085 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:01,085 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:01,085 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:07:03,333 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:03,333 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:03,333 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:03,333 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:05,590 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:05,591 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:05,591 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:05,591 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:07:07,801 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:07,802 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:07,802 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:07,802 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:10,027 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:10,027 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:10,028 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:10,028 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:07:12,271 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:12,272 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:12,272 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:12,272 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:14,500 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:14,501 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:14,501 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:14,501 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:07:16,758 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:16,758 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:16,758 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:16,759 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:19,037 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:19,039 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:19,039 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:19,039 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:07:21,361 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:21,361 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:21,361 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:21,361 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:23,621 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:23,621 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:23,621 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:23,621 __main__ 73 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:07:25,900 __main__ 99 [DEBUG][<module>] logloss: 0.6436682625711663, gini: -0.0
+2017-11-23 10:07:25,900 __main__ 107 [INFO][<module>] logloss: 0.6436682625711663, gini: 0.0
+2017-11-23 10:07:25,900 __main__ 108 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:25,900 __main__ 110 [INFO][<module>] minimum params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:07:25,900 __main__ 111 [INFO][<module>] minimum gini: 0.0
+2017-11-23 10:09:56,705 __main__ 44 [INFO][<module>] start
+2017-11-23 10:09:59,601 __main__ 53 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2017-11-23 10:09:59,601 __main__ 55 [INFO][<module>] data preparation end (595212, 58)
+2017-11-23 10:09:59,604 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:10:13,629 __main__ 100 [DEBUG][<module>] logloss: 0.2503367841454538, gini: -0.0017392141030247998
+2017-11-23 10:10:13,629 __main__ 108 [INFO][<module>] logloss: 0.2503367841454538, gini: -0.0017392141030247998
+2017-11-23 10:10:13,629 __main__ 109 [INFO][<module>] current min score: -0.0017392141030247998, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:10:13,629 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:12:14,508 __main__ 100 [DEBUG][<module>] logloss: 0.15178882068071795, gini: -0.2849535866394357
+2017-11-23 10:12:14,509 __main__ 108 [INFO][<module>] logloss: 0.15178882068071795, gini: -0.2849535866394357
+2017-11-23 10:12:14,509 __main__ 109 [INFO][<module>] current min score: -0.2849535866394357, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:12:14,509 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:14:13,158 __main__ 100 [DEBUG][<module>] logloss: 0.15180294196972605, gini: -0.2846699623397724
+2017-11-23 10:14:13,159 __main__ 108 [INFO][<module>] logloss: 0.15180294196972605, gini: -0.2846699623397724
+2017-11-23 10:14:13,159 __main__ 109 [INFO][<module>] current min score: -0.2849535866394357, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:14:13,159 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:16:20,198 __main__ 100 [DEBUG][<module>] logloss: 0.1518192599007179, gini: -0.28310104136169745
+2017-11-23 10:16:20,198 __main__ 108 [INFO][<module>] logloss: 0.1518192599007179, gini: -0.28310104136169745
+2017-11-23 10:16:20,198 __main__ 109 [INFO][<module>] current min score: -0.2849535866394357, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:16:20,198 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:16:31,666 __main__ 100 [DEBUG][<module>] logloss: 0.2666525768132968, gini: -0.001730487974281436
+2017-11-23 10:16:31,666 __main__ 108 [INFO][<module>] logloss: 0.2666525768132968, gini: -0.001730487974281436
+2017-11-23 10:16:31,667 __main__ 109 [INFO][<module>] current min score: -0.2849535866394357, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:16:31,667 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:16:43,856 __main__ 100 [DEBUG][<module>] logloss: 0.25316923557542875, gini: -0.001765279971823075
+2017-11-23 10:16:43,856 __main__ 108 [INFO][<module>] logloss: 0.25316923557542875, gini: -0.001765279971823075
+2017-11-23 10:16:43,856 __main__ 109 [INFO][<module>] current min score: -0.2849535866394357, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:16:43,857 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:17:00,516 __main__ 100 [DEBUG][<module>] logloss: 0.2421898621437938, gini: -0.0017392060660654796
+2017-11-23 10:17:00,517 __main__ 108 [INFO][<module>] logloss: 0.2421898621437938, gini: -0.0017392060660654796
+2017-11-23 10:17:00,517 __main__ 109 [INFO][<module>] current min score: -0.2849535866394357, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:17:00,517 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:17:16,214 __main__ 100 [DEBUG][<module>] logloss: 0.24351348572430837, gini: -0.0017392060660654796
+2017-11-23 10:17:16,214 __main__ 108 [INFO][<module>] logloss: 0.24351348572430837, gini: -0.0017392060660654796
+2017-11-23 10:17:16,214 __main__ 109 [INFO][<module>] current min score: -0.2849535866394357, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:17:16,214 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:19:07,875 __main__ 100 [DEBUG][<module>] logloss: 0.1518226836581898, gini: -0.28385148642440194
+2017-11-23 10:19:07,875 __main__ 108 [INFO][<module>] logloss: 0.1518226836581898, gini: -0.28385148642440194
+2017-11-23 10:19:07,875 __main__ 109 [INFO][<module>] current min score: -0.2849535866394357, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:19:07,876 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:21:05,799 __main__ 100 [DEBUG][<module>] logloss: 0.15170839200003075, gini: -0.2855327942344523
+2017-11-23 10:21:05,799 __main__ 108 [INFO][<module>] logloss: 0.15170839200003075, gini: -0.2855327942344523
+2017-11-23 10:21:05,799 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:21:05,799 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:21:17,192 __main__ 100 [DEBUG][<module>] logloss: 0.2666525768132968, gini: -0.001730487974281436
+2017-11-23 10:21:17,192 __main__ 108 [INFO][<module>] logloss: 0.2666525768132968, gini: -0.001730487974281436
+2017-11-23 10:21:17,193 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:21:17,193 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:21:29,348 __main__ 100 [DEBUG][<module>] logloss: 0.25316923557542875, gini: -0.001765279971823075
+2017-11-23 10:21:29,348 __main__ 108 [INFO][<module>] logloss: 0.25316923557542875, gini: -0.001765279971823075
+2017-11-23 10:21:29,348 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:21:29,348 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:21:46,066 __main__ 100 [DEBUG][<module>] logloss: 0.2421898621437938, gini: -0.0017392060660654796
+2017-11-23 10:21:46,066 __main__ 108 [INFO][<module>] logloss: 0.2421898621437938, gini: -0.0017392060660654796
+2017-11-23 10:21:46,066 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:21:46,066 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:22:01,726 __main__ 100 [DEBUG][<module>] logloss: 0.24351348572430837, gini: -0.0017392060660654796
+2017-11-23 10:22:01,726 __main__ 108 [INFO][<module>] logloss: 0.24351348572430837, gini: -0.0017392060660654796
+2017-11-23 10:22:01,726 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:22:01,727 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:24:07,032 __main__ 100 [DEBUG][<module>] logloss: 0.15180146553365043, gini: -0.28278583783904043
+2017-11-23 10:24:07,033 __main__ 108 [INFO][<module>] logloss: 0.15180146553365043, gini: -0.28278583783904043
+2017-11-23 10:24:07,033 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:24:07,033 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:26:26,614 __main__ 100 [DEBUG][<module>] logloss: 0.1517527737127424, gini: -0.2847169946265855
+2017-11-23 10:26:26,615 __main__ 108 [INFO][<module>] logloss: 0.1517527737127424, gini: -0.2847169946265855
+2017-11-23 10:26:26,615 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:26:26,615 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:26:37,975 __main__ 100 [DEBUG][<module>] logloss: 0.2666525768132968, gini: -0.001730487974281436
+2017-11-23 10:26:37,975 __main__ 108 [INFO][<module>] logloss: 0.2666525768132968, gini: -0.001730487974281436
+2017-11-23 10:26:37,975 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:26:37,976 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:26:50,191 __main__ 100 [DEBUG][<module>] logloss: 0.25316923557542875, gini: -0.001765279971823075
+2017-11-23 10:26:50,191 __main__ 108 [INFO][<module>] logloss: 0.25316923557542875, gini: -0.001765279971823075
+2017-11-23 10:26:50,192 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:26:50,192 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:27:05,296 __main__ 100 [DEBUG][<module>] logloss: 0.25460971416354206, gini: -0.0017479000469711181
+2017-11-23 10:27:05,296 __main__ 108 [INFO][<module>] logloss: 0.25460971416354206, gini: -0.0017479000469711181
+2017-11-23 10:27:05,296 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:27:05,296 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:29:05,990 __main__ 100 [DEBUG][<module>] logloss: 0.15186507730759854, gini: -0.282395587198101
+2017-11-23 10:29:05,990 __main__ 108 [INFO][<module>] logloss: 0.15186507730759854, gini: -0.282395587198101
+2017-11-23 10:29:05,990 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:29:05,991 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:31:27,434 __main__ 100 [DEBUG][<module>] logloss: 0.1518669618527344, gini: -0.28200669480331175
+2017-11-23 10:31:27,434 __main__ 108 [INFO][<module>] logloss: 0.1518669618527344, gini: -0.28200669480331175
+2017-11-23 10:31:27,434 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:31:27,434 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:33:36,326 __main__ 100 [DEBUG][<module>] logloss: 0.1518472297730845, gini: -0.28255780317878454
+2017-11-23 10:33:36,326 __main__ 108 [INFO][<module>] logloss: 0.1518472297730845, gini: -0.28255780317878454
+2017-11-23 10:33:36,326 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:33:36,326 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:33:48,933 __main__ 100 [DEBUG][<module>] logloss: 0.26665111541073105, gini: -0.001765279971823075
+2017-11-23 10:33:48,934 __main__ 108 [INFO][<module>] logloss: 0.26665111541073105, gini: -0.001765279971823075
+2017-11-23 10:33:48,934 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:33:48,934 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:34:01,641 __main__ 100 [DEBUG][<module>] logloss: 0.26509220923424154, gini: -0.001765279971823075
+2017-11-23 10:34:01,641 __main__ 108 [INFO][<module>] logloss: 0.26509220923424154, gini: -0.001765279971823075
+2017-11-23 10:34:01,641 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:34:01,641 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:34:18,447 __main__ 100 [DEBUG][<module>] logloss: 0.2531687481477474, gini: -0.0017479121024104316
+2017-11-23 10:34:18,447 __main__ 108 [INFO][<module>] logloss: 0.2531687481477474, gini: -0.0017479121024104316
+2017-11-23 10:34:18,447 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:34:18,448 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:36:33,564 __main__ 100 [DEBUG][<module>] logloss: 0.151864104422895, gini: -0.2826091272019542
+2017-11-23 10:36:33,564 __main__ 108 [INFO][<module>] logloss: 0.151864104422895, gini: -0.2826091272019542
+2017-11-23 10:36:33,564 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:36:33,565 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:38:37,216 __main__ 100 [DEBUG][<module>] logloss: 0.15182790706159888, gini: -0.2833405648555143
+2017-11-23 10:38:37,216 __main__ 108 [INFO][<module>] logloss: 0.15182790706159888, gini: -0.2833405648555143
+2017-11-23 10:38:37,216 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:38:37,216 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:40:26,282 __main__ 100 [DEBUG][<module>] logloss: 0.15179453471268745, gini: -0.2841158019289409
+2017-11-23 10:40:26,282 __main__ 108 [INFO][<module>] logloss: 0.15179453471268745, gini: -0.2841158019289409
+2017-11-23 10:40:26,282 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:40:26,282 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:40:39,057 __main__ 100 [DEBUG][<module>] logloss: 0.26665111541073105, gini: -0.001765279971823075
+2017-11-23 10:40:39,057 __main__ 108 [INFO][<module>] logloss: 0.26665111541073105, gini: -0.001765279971823075
+2017-11-23 10:40:39,058 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:40:39,058 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:40:51,911 __main__ 100 [DEBUG][<module>] logloss: 0.26509220923424154, gini: -0.001765279971823075
+2017-11-23 10:40:51,912 __main__ 108 [INFO][<module>] logloss: 0.26509220923424154, gini: -0.001765279971823075
+2017-11-23 10:40:51,912 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:40:51,912 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:41:08,795 __main__ 100 [DEBUG][<module>] logloss: 0.2531687481477474, gini: -0.0017479121024104316
+2017-11-23 10:41:08,795 __main__ 108 [INFO][<module>] logloss: 0.2531687481477474, gini: -0.0017479121024104316
+2017-11-23 10:41:08,795 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:41:08,795 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:43:20,843 __main__ 100 [DEBUG][<module>] logloss: 0.15185771835440992, gini: -0.2813535170425814
+2017-11-23 10:43:20,843 __main__ 108 [INFO][<module>] logloss: 0.15185771835440992, gini: -0.2813535170425814
+2017-11-23 10:43:20,843 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:43:20,843 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:45:40,348 __main__ 100 [DEBUG][<module>] logloss: 0.1517706993657112, gini: -0.2829250620879229
+2017-11-23 10:45:40,349 __main__ 108 [INFO][<module>] logloss: 0.1517706993657112, gini: -0.2829250620879229
+2017-11-23 10:45:40,349 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:45:40,349 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:47:41,066 __main__ 100 [DEBUG][<module>] logloss: 0.15178995594317446, gini: -0.281438748997751
+2017-11-23 10:47:41,066 __main__ 108 [INFO][<module>] logloss: 0.15178995594317446, gini: -0.281438748997751
+2017-11-23 10:47:41,066 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:47:41,066 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:47:53,660 __main__ 100 [DEBUG][<module>] logloss: 0.26665111541073105, gini: -0.001765279971823075
+2017-11-23 10:47:53,660 __main__ 108 [INFO][<module>] logloss: 0.26665111541073105, gini: -0.001765279971823075
+2017-11-23 10:47:53,661 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:47:53,661 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:48:06,379 __main__ 100 [DEBUG][<module>] logloss: 0.26509220923424154, gini: -0.001765279971823075
+2017-11-23 10:48:06,379 __main__ 108 [INFO][<module>] logloss: 0.26509220923424154, gini: -0.001765279971823075
+2017-11-23 10:48:06,379 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:48:06,380 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
+2017-11-23 10:48:21,521 __main__ 100 [DEBUG][<module>] logloss: 0.2503380241389176, gini: -0.0017479080839306604
+2017-11-23 10:48:21,521 __main__ 108 [INFO][<module>] logloss: 0.2503380241389176, gini: -0.0017479080839306604
+2017-11-23 10:48:21,521 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:48:21,522 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:48:37,413 __main__ 100 [DEBUG][<module>] logloss: 0.24351140572208452, gini: -0.0017479080839306604
+2017-11-23 10:48:37,413 __main__ 108 [INFO][<module>] logloss: 0.24351140572208452, gini: -0.0017479080839306604
+2017-11-23 10:48:37,414 __main__ 109 [INFO][<module>] current min score: -0.2855327942344523, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0}
+2017-11-23 10:48:37,414 __main__ 74 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0}
